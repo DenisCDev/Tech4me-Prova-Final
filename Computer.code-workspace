@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "tech4computer"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"path": "zuul-server"
+		},
+		{
+			"name": "tech4price",
+			"path": "tech4price"
+		}
+	],
+	"settings": {}
+}
