@@ -1,6 +1,7 @@
 # Tech4Computer API Computer-Store
 
 ## **Sobre**
+API RESTful para cadastro e especificação de preço por peça, como placa mãe, processador, memória RAM, placa de vídeo, fonte e etc
 
 ### Tech4Computer
 Função: Cadastrar computadores especificando peças
